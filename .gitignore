@@ -1,1 +1,10 @@
+/bin/
+
+# IDE Files
+/.settings/
+/.project
+
+# Java
+/.classpath
 *.class
+hs_err_pid*
